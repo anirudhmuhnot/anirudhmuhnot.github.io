@@ -10,8 +10,8 @@
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
   <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
 </head>
+<?php include ("nav.php"); ?>
 <body>
-<?php include "nav.php"; ?>
 <br>
 <br>
 <div class="container">
