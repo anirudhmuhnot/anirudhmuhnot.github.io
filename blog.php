@@ -1,4 +1,4 @@
-<?php include "nav.php" ?>;
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -12,6 +12,7 @@
   <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
 </head>
 <body>
+<?php echo "Hell0"; ?>;
 <br>
 <br>
 <div class="container">
