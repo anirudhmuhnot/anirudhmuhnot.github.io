@@ -20,15 +20,12 @@
         <h5 class="header col s12 light">Here you can find the ML projects made from scratch with complete descriptions for ML techniques.</h5>
       </div>
       <div class="row center">
-        <a href="projects.php" id="download-button" class="btn-large waves-effect waves-light orange">View all Projects</a>
+        <a href="portfolio.php" id="download-button" class="btn-large waves-effect waves-light orange">View all Projects</a>
         <a href="blog.php" id="download-button" class="btn-large waves-effect waves-light orange">Blog</a>
       </div>
       <br><br>
-
     </div>
   </div>
-
-
   <div class="container">
     <div class="section">
 
@@ -76,6 +73,6 @@
   <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
   <script src="js/materialize.js"></script>
   <script src="js/init.js"></script>
-
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
   </body>
 </html>
