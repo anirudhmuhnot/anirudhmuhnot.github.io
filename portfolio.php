@@ -13,17 +13,17 @@
 <body>
 <?php include "nav.php"; ?>
 <div class="container">
-
-
+<br>
+  <h3>Recent Projects: </h3>
   <div class="row">
     <div class="col s4 m4">
       <div class="card">
         <div class="card-image">
-          <img src="images/sample-1.jpg">
-          <span class="card-title">Attendance Dashboard</span>
+          <img src="images/zeppelin.jpg">
+          <span class="card-title"></span>
         </div>
         <div class="card-content">
-          <p>Creating Interactive Visualisations using Zeppelin.</p>
+          <p>Attendance Dashboard - Creating Interactive Visualisations using Zeppelin.</p>
         </div>
         <div class="card-action">
           <a href="projects/1attendancedashboard.php">View Project</a>
@@ -33,11 +33,11 @@
     <div class="col s4 m4">
       <div class="card">
         <div class="card-image">
-          <img src="images/sample-1.jpg">
-          <span class="card-title">Crime Predictions and Analysis</span>
+          <img src="images/crimecard.png">
+          <span class="card-title"></span>
         </div>
         <div class="card-content">
-          <p>District Wise Crime Analysis in India from 2001-2012. Various interactive visualisations using plotly framework and Crime predictions on crime against women.</p>
+          <p>Crime Predictions and Analysis - District Wise Crime Analysis in India from 2001-2012. Various interactive visualisations using plotly framework and Crime predictions on crime against women.</p>
         </div>
         <div class="card-action">
           <a href="projects/2crimeanalysis.php">View Project</a>

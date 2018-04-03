@@ -13,15 +13,39 @@
 <body>
 <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 <?php include "nav.php"; ?>
-<div class="container">
-	<div class="row">
-		<div class="col s12">
-			<!--<? echo file_get_contents( "../figures/1.txt" ); ?>	-->
-		</div>
-	</div>
-</div>
+  <h3></h3>
+  <div class="row">
+    <h4></h4>
+    <div class="col s12">
+      <iframe src="http://35.231.52.18:9601/#/notebook/2DC6KZNG1/paragraph/20180330-075149_419331209?asIframe" width="100%" height="610" frameborder="0" scrolling="no"></iframe>
+      <iframe src="" width="100%" height="610" frameborder="0" scrolling="no"></iframe>
+    </div>
+  </div>
+  <div class="row">
+    <h4></h4>
+    <div class="col s12">
+      <iframe src="http://35.231.52.18:9601/#/notebook/2DC6KZNG1/paragraph/20180330-074741_239675757?asIframe" width="100%" height="610" frameborder="0" scrolling="no"></iframe>
+    </div>
+  </div>
+  <div class="row">
+    <h4></h4>
+    <div class="col s12">
+      <iframe src="" width="100%" height="610" frameborder="0" scrolling="no"></iframe>
+    </div>
+  </div>
+  <div class="row">
+    <h4></h4>
+    <div class="col s12">
+      <iframe src="" width="100%" height="610" frameborder="0" scrolling="no"></iframe>
+    </div>
+  </div>
 <?php include 'footer.php' ?>
-
+<!-- <div class="row">
+    <h4></h4>
+    <div class="col s12">
+      <iframe src=""></iframe>
+    </div>
+  </div> -->
   <!--  Scripts-->
   <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
   <script src="../js/materialize.js"></script>
