@@ -15,7 +15,7 @@
 <div class="section no-pad-bot" id="index-banner">
     <div class="container">
       <br><br>
-      <h1 class="header center orange-text">Wecome</h1>
+      <h1 class="header center orange-text">Welcome</h1>
       <div class="row center">
         <h5 class="header col s12 light">Here you can find the ML projects made from scratch with complete descriptions for ML techniques.</h5>
       </div>
@@ -36,7 +36,7 @@
             <h2 class="center light-blue-text"><i class="material-icons">perm_identity</i></h2>
             <h5 class="center">About me</h5>
 
-            <p class="light">I'm a second year Computer Science student at Techno India NJR, Udaipur, India. Discovered my passion early on in my life and haven't stopped ever since. I had trouble finding good explainations to ML techniques and their practial applications from scratch, so this website is a result of that! Hope You enjoy it.</p>
+            <p class="light">I'm a final year Computer Science student at Techno India NJR, Udaipur, India. Discovered my passion early on in my life and haven't stopped ever since. I had trouble finding good explainations to ML techniques and their practial applications from scratch, so this website is a result of that! Hope You enjoy it.</p>
           </div>
         </div>
 
@@ -54,7 +54,7 @@
             <h2 class="center light-blue-text"><i class="material-icons">settings</i></h2>
             <h5 class="center">Help me improve</h5>
 
-            <p class="light">Feel free to comment and post any issue regarding the project for more through explaination. If you identify any bug, let me know. Your feedback matters. Make sure to read the Description first before commenting. Thank you. Cheers.</p>
+            <p class="light">Feel free to comment and post any issue regarding the project for more through explaination. If you identify any bug, let me know. Your feedback matters. You can email me at <address><u>anirudhmuhnot30u30@gmail.com</u></address> Thank you. Cheers.</p>
           </div>
         </div>
       </div>
