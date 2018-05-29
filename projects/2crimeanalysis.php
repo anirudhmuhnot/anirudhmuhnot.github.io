@@ -17,7 +17,7 @@
   <div class="row">
     <h4></h4>
     <div class="col s12">
-      <iframe src="http://35.231.52.18:9601/#/notebook/2DC6KZNG1/paragraph/20180330-075149_419331209?asIframe" width="100%" height="610" frameborder="0" scrolling="no"></iframe>
+      <iframe src="http://35.231.52.18:9601/#/notebook/2DC6KZNG1/paragraph/20180330-074929_1968260320?asIframe" width="100%" height="610" frameborder="0" scrolling="no"></iframe>
       <iframe src="" width="100%" height="610" frameborder="0" scrolling="no"></iframe>
     </div>
   </div>
@@ -30,13 +30,13 @@
   <div class="row">
     <h4></h4>
     <div class="col s12">
-      <iframe src="" width="100%" height="610" frameborder="0" scrolling="no"></iframe>
+      <iframe src="http://35.231.52.18:9601/#/notebook/2DC6KZNG1/paragraph/20180330-081943_771001138?asIframe" width="100%" height="610" frameborder="0" scrolling="no"></iframe>
     </div>
   </div>
   <div class="row">
     <h4></h4>
     <div class="col s12">
-      <iframe src="" width="100%" height="610" frameborder="0" scrolling="no"></iframe>
+      <iframe src="http://35.231.52.18:9601/#/notebook/2DC6KZNG1/paragraph/20180330-075158_1017215298?asIframe" width="100%" height="610" frameborder="0" scrolling="no"></iframe>
     </div>
   </div>
 <?php include 'footer.php' ?>
