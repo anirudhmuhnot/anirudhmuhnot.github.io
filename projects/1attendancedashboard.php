@@ -12,7 +12,7 @@
 </head>
 <body>
 <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-<?php include "../nav.php"; ?>
+<?php include "nav.php"; ?>
 <div class="row">
   <div class="col s12">
     <h3>
@@ -67,7 +67,7 @@
 
 
 
-<?php include '../footer.php' ?>
+<?php include 'footer.php' ?>
 
   <!--  Scripts-->
   <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>

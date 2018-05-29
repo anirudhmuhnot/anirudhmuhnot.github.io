@@ -71,7 +71,7 @@
 <div class="row">
     <div class="col s12 m10 offset-m1 l9 offset-l1">
                   <div class="post-preview">
-                    <a href="deeplearning13feb16.php">
+                    <a href="blog/deeplearning13feb16.php">
                         <h4 class="post-title titleFont">
                            Basics of Deep Learning
                         </h4>
@@ -87,7 +87,7 @@
   <div class="row">
     <div class="col s12 m10 offset-m1 l9 offset-l1">
                   <div class="post-preview">
-                    <a href="perceptron.php">
+                    <a href="blog/perceptron.php">
                         <h4 class="post-title titleFont">
                            Implementing Perceptron Learning Algorithm
                         </h4>
